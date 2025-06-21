@@ -1,3 +1,3 @@
 ﻿# rock-paper-scissors
 
-gam
+g
